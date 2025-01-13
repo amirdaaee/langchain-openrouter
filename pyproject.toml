@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "langchain-openrouter"
+name = "langchain-openrouter-chat"
 version = "0.1.0"
 description = ""
 authors = ["amir daaee <amir.daaee@gmail.com>"]
