@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "langchain-openrouter"
+version = "0.1.0"
+description = ""
+authors = ["amir daaee <amir.daaee@gmail.com>"]
+readme = "README.md"
+packages = [{include = "langchain_openrouter"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain-openai = "^0.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
